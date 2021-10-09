@@ -7,3 +7,4 @@ Repository with solutions for problems in Kotlin Heroes contests
 * Kotlin Heroes 4 - https://codeforces.com/contest/1346
 * Kotlin Heroes 5 - https://codeforces.com/contest/1431
 * Kotlin Heroes 6 - https://codeforces.com/contest/1488
+* Kotlin Heroes 8 - https://codeforces.com/contest/1571
